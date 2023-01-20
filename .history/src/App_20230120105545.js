@@ -10,8 +10,8 @@ const firebaseConfig = {
   projectId: "funbox-84daa",
   storageBucket: "funbox-84daa.appspot.com",
   messagingSenderId: "525149913768",
-  appId: "1:525149913768:web:aead23f9707ba15718789d",
-  measurementId: "G-8CP006462Z"
+  appId: "1:525149913768:web:8cc769513c512b3a18789d",
+  measurementId: "G-ZCH12TSCW3"
 };
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
